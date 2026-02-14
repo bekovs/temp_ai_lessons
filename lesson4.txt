@@ -543,4 +543,4 @@ Probable Daily Intake (PDI)
 Diketopiperazine (DKP)
 Phenylketonuria (PKU)
 Clostridium botulinum
-Nitrosamines
+Nitrosamin
